@@ -1,0 +1,6 @@
+
+Q - DebugMode (Ver.Debug에만 해당)
+Z - 공격
+X - 회피 
+ 
+방향키로 이동
